@@ -21,14 +21,14 @@ Mostrar vehículos disponibles por modelo
 Este sistema busca optimizar los tiempos de respuesta y mejorar la disponibilidad de información para la toma de decisiones.
 Ademas, se  de creó un algoritmo para calcular el precio final de un vehiculo.
 
-⚙️ Dependencias del proyecto
+Dependencias del proyecto
 
 El proyecto no requiere dependencias externas.
 
 Solo se necesita:
 
 Software PSeInt instalado en el equipo o PSIntPlus
-▶️ Instrucciones para ejecutar el proyecto
+Instrucciones para ejecutar el proyecto
 Abrir el programa PSeInt o https://psintplus.lat/ 
 Cargar el archivo del algoritmo (.psc) o copiar el codigo en PSIntplus
 Ejecutar el programa presionando el botón "Ejecutar"
@@ -45,7 +45,7 @@ ActualizacionOTA → Simula el proceso de actualización de software
 CalculoPrecioFinal → Calcula el precio final con IVA
 MostrarVehiculos → Muestra los vehículos disponibles
 
-🚀 Funcionalidad adicional implementada
+Funcionalidad adicional implementada
 Validación de stock antes de realizar ventas
 Mensajes informativos para el usuario
 Control básico de errores mediante estructuras condicionales
