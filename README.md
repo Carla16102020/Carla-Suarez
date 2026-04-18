@@ -2,12 +2,12 @@ Sistema de Gestión de Inventario - Jaguar Chile
 
 Tipo de evaluación: 1
 
-👥 Integrantes del grupo
+Integrantes del grupo
 Carla Violeta Suarez Vasquez
 Luis Eduardo Guajardo Espinoza
 Pablo Esteban Acosta Zuñiga
 
-📖 Descripción detallada del proyecto
+Descripción detallada del proyecto
 
 Este proyecto consiste en el desarrollo de un sistema en PSIntPlus que permite gestionar el inventario de vehículos Jaguar en Chile. El sistema fue diseñado para resolver problemas asociados a la gestión manual del stock, permitiendo:
 
@@ -35,7 +35,7 @@ Ejecutar el programa presionando el botón "Ejecutar"
 Ingresar los datos solicitados por el sistema
 Visualizar los resultados en pantalla
 
-🗂️ Estructura del proyecto
+Estructura del proyecto
 
 El sistema está compuesto por los siguientes módulos (algoritmos):
 
@@ -51,15 +51,15 @@ Mensajes informativos para el usuario
 Control básico de errores mediante estructuras condicionales
 Simulación de decisiones en actualización OTA
 
-⚠️ Excepciones y su jerarquía
+Excepciones y su jerarquía
 
 
 
 
-🔍 Ejemplos de manejo de excepciones en el código
+Ejemplos de manejo de excepciones en el código
 
 
-📌 Información adicional
+Información adicional
 
 Este proyecto fue desarrollado con fines académicos, con el objetivo de aplicar:
 
